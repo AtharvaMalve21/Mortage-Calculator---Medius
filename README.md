@@ -28,7 +28,7 @@ A responsive React application replicating the Better.com mortgage lending platf
 
 1. Clone the repository
 ```bash
-git clone https://github.com/AtharvaMalve/better-com-replica.git
+git clone https://github.com/AtharvaMalve21/Mortage-Calculator---Medius.git
 cd better-com-replica
 ```
 
